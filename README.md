@@ -26,7 +26,7 @@ From this data I was able to:
 - Conduct a Pearson’s correlation test.
 - Generate a pair plot
 - Create the regression model .
-- Plot the regression model y ~ x at a 95% confidence interval 
+- Plot the regression model y ~ x at a 95% confidence interval          
 Further description is made available in the **Jupyter Notebook**
-- 
+ 
 
